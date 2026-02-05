@@ -1,2 +1,5 @@
-# cdw-ghcptemplate-20260205
-A skeleton repo that can be use for interacting with the GitHub Copilot CLI with minimal up-front setup.
+# GitHub Copilot CLI
+
+## Bootstrap Prompt
+
+Add information about the initial prompt you use to seed the copilot-instructions.md file here.
