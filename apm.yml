@@ -1,0 +1,16 @@
+name: GH Copilot CLI Devcontainer
+version: 1.0.0
+description: A generic devcontainer template file for GitHub Copilot CLI running in a devcontainer.
+author: Chris Wiederspan
+
+targets:
+  - copilot
+
+dependencies:
+  apm:
+    - microsoft/apm-sample-package
+  mcp: []
+
+includes: auto
+
+scripts: {}
